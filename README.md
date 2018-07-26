@@ -1,2 +1,2 @@
-# task_manager_powershell
-Basic Task Manager Information with Powershell
+# task_manager
+Basic Task Manager Information with Powershell and SHELL
